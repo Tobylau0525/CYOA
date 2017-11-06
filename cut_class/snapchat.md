@@ -1,4 +1,4 @@
 You were snapchatting about how you cut class today and you 
-were Caught and sent back to school! Not so sneaky now.
+were Caught and you are grounded! Not so sneaky now.
 
-# [back to school](../home.md/go-to-school.md)
+# [back to school](../endday.md)
