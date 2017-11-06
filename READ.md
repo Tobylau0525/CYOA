@@ -1,2 +1,0 @@
-## This project was made by Hector and Toby. 
-
