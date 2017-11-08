@@ -1,6 +1,8 @@
-## This project was made by Toby and Hector.The purpose of this project is to practice the new stuff we had laern. 
+## This project was made by <u>Toby</u> and Hector.
+---
+### The purpose of this project is to practice the new stuff we had laern,working together on a big project and without having merge conflict/if merge conflict hapeen how are we gonna resolve the issue. 
 
-**Toby**
+
 
 # [link to begin your adventure](home.md)
 
