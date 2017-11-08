@@ -1,1 +1,3 @@
-You decided to be honest with Mr.Mueller and say that you did not study for the test, He sees how sincere you are and decides to let you take it during tutoring!
+You decide not to cheat and tell Mr Mueller that you didn’t study for the test
+
+# [Chance to retake??](aced_test.md)
