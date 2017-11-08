@@ -1,3 +1,3 @@
 Mr Mueller decide to let you retake the test, and you got a 100 on it.
 
-# [End of the day](endday.md)
+# [End of the day](cut_class/endday.md)
