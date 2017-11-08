@@ -1,3 +1,3 @@
 You decide to cut class,and you ....
 
-## [You are sneaky](did-not-get-caught.md) 
+# [You are sneaky](did-not-get-caught.md) 
